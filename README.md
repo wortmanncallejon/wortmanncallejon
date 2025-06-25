@@ -6,4 +6,4 @@ I hold a Master's degree in Political Science and Political Economy from the <a 
 
 Outside of work, I love to ride my bicycle (preferably in the mountains), play volleyball, cook, and drink espresso.
 
-You can reach me or via [E-Mail](mailto:felix@wortmanncallejon.de).
+You can reach me via [E-Mail](mailto:felix@wortmanncallejon.de).
