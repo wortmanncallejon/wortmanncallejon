@@ -1,16 +1,9 @@
 # Hi,
-<br>
-I’m Felix <code>@wortmanncallejon</code> and I am a political economist and data scientist.
 
-I am currently working as a consultant at the economic policy advisory firm TWS Partners, where I employ game- and auction theoretic tools to help clients in strategic business settings, e.g. procurement, sales, company strategy.
+I am Felix <code>@wortmanncallejon</code>, a PhD student in Political Economy at <a href="https://rppe.princeton.edu/">Princeton University</a>. I am interested in explaining variation in the time horizon of investive policies. Specifically, I use formal theory, machine learning- and causal inference methods to understand which factors enable long-term policymaking, with applications ranging from climate policy to AI safety. Methodologically, I am interested in studying when empirical measurements are commensurate with theory, that is studying the <a href="https://stephanewolton.com/about/tiem/">theoretical implications of empirical models (TIEM)</a>.
 
-From September 2023 to September 2024, I was Junior Associate at Bernstein Group, where I curated, cleaned, and analysed political and economic data using machine learning methods, as well as frequentist- and bayesian statistics to help domestic and international clients get the best out of their data.
-
-Prior to that, I was a graduate student of political science at the Department of Government of the [London School of Economics and Political Science](https://www.lse.ac.uk/).
-
-For my research I rely on quantitative methodology - especially causal inference - which I implement in <code>R</code>. I am also profficient in <code>STATA</code>,  <code>SPSS</code>, and, increasingly, `Python`.
+I hold a Master's degree in Political Science and Political Economy from the <a href="https://www.lse.ac.uk/government/research/research-groups/political-science-and-political-economy">London School of Economics</a>, as well as Bachelor's degree from the <a href="https://www.polsoz.fu-berlin.de/polwiss/index.html">Free University of Berlin</a>. From September 2023 through May 2025, I worked in the private sector as a data science and game theory consultant.
 
 Outside of work, I love to ride my bicycle (preferably in the mountains), play volleyball, cook, and drink espresso.
 
-You can reach me [@wortmanncallejo](https://twitter.com/wortmanncallejo) or via [E-Mail](mailto:felix@wortmanncallejon.de).
-
+You can reach me or via [E-Mail](mailto:felix@wortmanncallejon.de).
